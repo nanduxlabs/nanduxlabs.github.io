@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f8f8f8;
+    color: #333;
+}
+header {
+    background: #111;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+.logo {
+    max-width: 120px;
+}
+.tagline {
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+section {
+    padding: 2rem;
+}
+.about, .services, .contact {
+    background: white;
+    margin: 1rem auto;
+    max-width: 800px;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+h2 {
+    color: #004d99;
+}
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
